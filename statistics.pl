@@ -24,4 +24,4 @@ foreach (keys %wordStats){
 # $lineCount = @lines;
 # print {$fh} "Number of lines = $lineCount\n";
 
-# close $fh;
+close $fh;
